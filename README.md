@@ -7,3 +7,4 @@ MI IDEA DE IA
 6.	¿Y ahora qué?: Creo que podría ser un tutor personalizado para el estudiante que pudiera llegar a aconsejar en base al conocimiento adquirido de la interacción las mejores soluciones a los problemas de motivación y estudio.
 7.	Agradecimientos: La fuente de inspiración es la experiencia adquirida a lo largo de los años en tutoría y las conversaciones con compañeros.
 
+"Construyendo un proyecto de curso de IA"
